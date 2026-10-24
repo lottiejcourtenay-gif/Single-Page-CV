@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:description" content="Charlotte Courtenay CV">
-    <title>Charlotte Courtenay</title>
     <meta name="description" content="CV, job, career, experience">
     <link rel="icon" type="image/png" href="images.png">
   </head>
